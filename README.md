@@ -32,7 +32,7 @@
 <a href="https://geeksforgeeks.org" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="40"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:ny420436@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
